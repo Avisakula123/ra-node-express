@@ -1,0 +1,30 @@
+{
+  "name": "ra-node-express",
+  "version": "1.0.0",
+  "description": "This is an example repository",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avisakula123/ra-node-express.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "rohith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avisakula123/ra-node-express/issues"
+  },
+  "homepage": "https://github.com/Avisakula123/ra-node-express#readme",
+  "engines": {
+    "node": "15.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
